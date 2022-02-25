@@ -1,5 +1,5 @@
 # Artificial-Neural-Networks
---I have used the version of Python 3.9.7 //
+--I have used the version of Python 3.9.7 <br /> 
 --I have used Microsoft Windows for operating system
 --There is only main.py file, I didn't divide my code to separate files.
 --First we need to download Individual Edition - Anaconda
